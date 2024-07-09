@@ -1,0 +1,4 @@
+Model,Accuracy Train,Precision Train,Recall Train,F1 Score Train
+Xgboost,0.96271,0.99337,0.97117,0.98189
+AdaBoost,0.96327,0.99342,0.97212,0.98234
+DecisionTree,0.93450,0.98725,0.94767,0.96673

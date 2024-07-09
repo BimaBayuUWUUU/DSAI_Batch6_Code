@@ -1,0 +1,4 @@
+Model,Accuracy Validation,Precision Validation,Recall Validation,F1 Score Validation
+Xgboost,0.90268,0.96183,0.91775,0.93814
+AdaBoost,0.89844,0.96263,0.91389,0.93639
+DecisionTree,0.89121,0.94664,0.91248,0.92825
